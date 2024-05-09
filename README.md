@@ -1,1 +1,2 @@
-# TacheSync-Nadia
+# TacheSync
+Todo List API
